@@ -1,4 +1,4 @@
-Hellow Git Wolrd
+﻿Hellow Git Wolrd
 
 반갑습니다.
 
@@ -11,3 +11,9 @@ Hellow Git Wolrd
 되라되라!!
 
 상민님 감사해요!!
+
+이곳이 바로 깃의 세계?
+
+멋집니다!!
+
+하사이시조에 이어 본인 밤부 글 올림
